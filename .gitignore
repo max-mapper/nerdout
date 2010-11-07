@@ -22,6 +22,7 @@ thumb.db
 .svn
 publish
 .idea
+.couchapprc
 
 # files
 build/buildinfo.properties
